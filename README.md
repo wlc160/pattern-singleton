@@ -36,5 +36,6 @@
 （5）防御反射破坏单例
 
 5、内部类的执行逻辑时序图：
+
 ![Image text](https://github.com/wlc160/img-folder/blob/master/InnerClassTimeMap.jpg)
 
